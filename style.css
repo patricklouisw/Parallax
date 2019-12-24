@@ -1,0 +1,107 @@
+*{margin: 0;padding: 0;}
+body{background: #fff;}
+.container{
+	width: 100%;
+	margin: auto;
+}
+.hitam{
+	height: 1000px;
+	/*background: #123;*/
+	background-color: rgba(33, 19, 42, 0.72);
+}
+.satu{
+	background:url("1.jpg")fixed;
+	height: 500px;
+	width: 100%;
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dua{
+	height: 500px;
+	/*background: #2980b9;*/
+	background: rgba(0, 0, 0, 0.9);
+}
+h1{
+	text-align: center;
+	font-family: arial;
+	font-size: 100px;
+	color: #fff;
+	line-height: 500px;
+	text-transform: lowercase;
+}
+a{
+	text-align: center;
+	font-family: arial;
+	font-size: 100px;
+	color: #fff;
+	line-height: 500px;
+	text-transform: lowercase;
+}
+.col{
+	text-align: center;
+	font-family: arial;
+	font-size: 100px;
+	color: #fff;
+	line-height: 1000px;
+	text-transform: lowercase;
+}
+.tiga{
+	background:url("2.jpg")fixed;
+	height: 500px;
+	width: 100%;
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.empat{
+	height: 500px;
+	background: #c0392b;
+}
+.lima{
+	background:url("3.jpg")fixed;
+	height: 500px;
+	width: 100%;
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.enam{
+	height: 500px;
+	background: #27ae60;
+}
+.tujuh{
+	background:url("4.png")fixed;
+	height: 500px;
+	width: 100%;
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.delapan{
+	height: 500px;
+	background: #8e44ad;
+}
+.sembilan{
+	background:url("5.jpg")fixed;
+	height: 500px;
+	width: 100%;
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sepuluh{
+	height: 1000px;
+	/*background: #f39c12;*/
+	background-color: rgba(243, 156, 18, 0.84);
+}
+video{
+	z-index: -100;
+	position: fixed;
+    right: 0;
+    bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+	/*width: 100%;
+	height: 100%;*/
+}
